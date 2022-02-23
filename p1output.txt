@@ -1,1 +1,7 @@
-
+ gcc -g p1original.c -lm
+ ./a.out
+enter the values of x1,y1,x2,y21
+1
+2
+2
+The distance between (1.0000001.000000) and (2.0000002.000000) is 1.4142
